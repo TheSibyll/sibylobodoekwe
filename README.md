@@ -11,7 +11,7 @@ I'm a Software Engineer, Technical Writer, I'm currently studying cloud engineer
 - 💡 Fun fact: I'm actually from a medical background, and also a self-taught astronomer.
 - 🌱 I’m currently learning JavaScript, Bash, Python, AWS, GCP, Azure
 - 😊 I’m looking for help with open source projects, hackathons, internships and entry-level opportunities for cloud engineers.
-- 💼 Job interests: Software Engineer, UI Engineer (Junior level), Cloud Engineering (Intern or Junior level)
-- 📫 You can view my complete resume](#) soon, contact me by emailing sibylnkaechi@gmail.com.
+- 💼 Job interests: Software Engineer, UI Engineer (Junior level), Cloud Engineer (Intern or Junior level)
+- 📫 You can view my articles on [https://medium.com/@sibylnkaechi](https://medium.com/@sibylnkaechi), contact me by emailing sibylnkaechi@gmail.com.
 
 ---
